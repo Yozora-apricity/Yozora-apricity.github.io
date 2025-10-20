@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Typing effect
     const typingText = document.getElementById('typing-text');
-    const words = ["Cybersecurity Analyst", "Ethical Hacker", "Threat Hunter"];
+    const words = ["Computer Engineering Student", "Web Developer", "Tech Enthusiast"];
     let wordIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
